@@ -9,4 +9,6 @@ public interface MapperTest {
 
     String test2();
 
+    String test3();
+
 }
